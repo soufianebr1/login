@@ -1,0 +1,7 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=C:\Users\acer\flutter
+FLUTTER_APPLICATION_PATH=D:\flutter\flutter-login-driver\flutter-login-ui-master
+FLUTTER_TARGET=lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build\ios
+FLUTTER_FRAMEWORK_DIR=C:\Users\acer\flutter\bin\cache\artifacts\engine\ios
